@@ -8,7 +8,6 @@ import CreatePageSection from "./CreatePageSection"
 function Create() {
     return(
         <div>
-            <Header></Header>
             <TopNavBar></TopNavBar>
             <BottomNavBar></BottomNavBar>
             <CreatePageSection></CreatePageSection>
